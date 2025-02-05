@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "iostream": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "__locale": "cpp",
+        "typeinfo": "cpp",
+        "cstring": "cpp",
+        "*.tcc": "cpp",
+        "chrono": "cpp"
+    }
+}
